@@ -1,5 +1,8 @@
 # [OhMyPosh](https://ohmyposh.dev) Config
 [OMP: Change your prompt](https://ohmyposh.dev/docs/installation/prompt) but with the my config
+
+![the terminal](https://jpx4.github.io/oh-my-posh-config/assets/omp.png)
+
 |bash|pwsh|
 |--|--|
 | `vi .bashrc` | `New-Item -Path $PROFILE -Type File -Force` |
